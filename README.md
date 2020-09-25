@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagorobertomendes/)](https://www.linkedin.com/in/thiagorobertomendes/)
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoromendes&show_icons=true" alt="thiagoromendes" /> 
 
-</p>
+
+(https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 
 
