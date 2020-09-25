@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/thiagoromendes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoromendes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoromendes&theme=dark" />
 </a>
 </p>
 
